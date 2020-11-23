@@ -15,4 +15,4 @@
 
  
 ### Language stats  
-<img alt="requiemofthesouls Language Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=requiemofthesouls&langs_count=8&hide=html,jupyter notebook,css&exclude_repo=PP4E,-,stepic,starwars,tango_with_django,learning_golang,el_diary&layout=compact" />
+<img alt="requiemofthesouls Language Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=requiemofthesouls&langs_count=10&hide=html,jupyter notebook,css&exclude_repo=PP4E,-,stepic,starwars,tango_with_django,learning_golang,el_diary&layout=compact" />
