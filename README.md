@@ -2,6 +2,11 @@
 
 ### Github Activity
 <!--START_SECTION:activity-->
+1. 🗣 Commented on [#70](https://github.com/tiaguinho/gosoap/issues/70) in [tiaguinho/gosoap](https://github.com/tiaguinho/gosoap)
+2. ❌ Reopened PR [#70](https://github.com/tiaguinho/gosoap/pull/70) in [tiaguinho/gosoap](https://github.com/tiaguinho/gosoap)
+3. ❌ Closed PR [#70](https://github.com/tiaguinho/gosoap/pull/70) in [tiaguinho/gosoap](https://github.com/tiaguinho/gosoap)
+4. 🗣 Commented on [#70](https://github.com/tiaguinho/gosoap/issues/70) in [tiaguinho/gosoap](https://github.com/tiaguinho/gosoap)
+5. 💪 Opened PR [#70](https://github.com/tiaguinho/gosoap/pull/70) in [tiaguinho/gosoap](https://github.com/tiaguinho/gosoap)
 <!--END_SECTION:activity-->
 
 ### Github Stats
