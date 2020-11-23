@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-<img align="left" alt="requiemofthesouls GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=requiemofthesouls&show_icons=true&hide_border=true" />
+<img align="left" alt="requiemofthesouls GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=requiemofthesouls&show_icons=true&hide_border=false" />
 
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=requiemofthesouls&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
+<br/>
+<img align="left" alt="requiemofthesouls GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=requiemofthesouls&langs_count=10&hide=html,juputer notebook" />
