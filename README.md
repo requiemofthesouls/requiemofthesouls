@@ -37,5 +37,5 @@
 ---
 
 [habr_career]: https://career.habr.com/requiemofthesouls
-[instagram]: https://www.instagram.com/keep_on_rail/
+[instagram]: https://www.instagram.com/requiemofthesouls/
 [telegram]: https://t.me/keep_on_rail
