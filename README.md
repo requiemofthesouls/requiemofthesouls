@@ -1,10 +1,9 @@
 ## Hi there, I'm Konstantin 👋 <img src="https://gpvc.arturio.dev/requiemofthesouls" alt="profile views">
 
-### I'm a Python and Golang developer at Intersvyaz company.
-- 🔭 I'm a first-year student of software engineering at Chelyabinsk State University.
-- 🌱 I want to grow into an SR Engineer.
-- 👯 I’d like to realize my own commercial project
-- 🥅 2021 Goals: Get an attractive job offer, contribute more to open source
+### I'm a Go developer at [FBS](https://fbs.com) company.
+- 🔭 I'm a student at Chelyabinsk State University.
+- 💻 I’d like to realize my own commercial project
+- 📖 2021 Goals: Contribute more to open source
 - ⚡ Hobby: I'm in love with music and cars
 
 ### Connect with me:  
