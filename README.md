@@ -1,4 +1,4 @@
-## Hi there, I'm Konstantin 👋 <img src="https://gpvc.arturio.dev/requiemofthesouls" alt="profile views">
+## Hi there, I'm Konstantin 👋 
 
 ### I'm a Go developer at [FBS](https://fbs.com) company.
 - 🔭 Chelyabinsk State University student
@@ -36,7 +36,9 @@
 <img alt="requiemofthesouls Language Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=requiemofthesouls&langs_count=10&hide=html,jupyter notebook,css&exclude_repo=PP4E,-,stepic,starwars,tango_with_django,learning_golang,el_diary,tamagotci-orangepi,neweld_crm,USML_homeworks,usml_test_task,trader_py,pchkaty_web&layout=compact&card_width=445" />
 
 ---
+<img src="https://gpvc.arturio.dev/requiemofthesouls" alt="profile views">
 
+---
 [habr_career]: https://career.habr.com/requiemofthesouls
 [instagram]: https://www.instagram.com/requiemofthesouls/
 [telegram]: https://t.me/keep_on_rail
