@@ -10,6 +10,7 @@
 [<img align="left" alt="requiemofthesouls | Telegram" width="22px" src="https://www.flaticon.com/svg/static/icons/svg/1532/1532545.svg" />][telegram]
 [<img align="left" alt="requiemofthesouls | Instagram" width="22px" src="https://www.flaticon.com/svg/static/icons/svg/1409/1409946.svg" />][instagram]
 [<img align="left" alt="requiemofthesouls | Habr Career" width="22px" src="https://career.habr.com/images/favicons/favicon-32.png" />][habr_career]
+[<img align="left" alt="requiemofthesouls | LinkedIn" width="22px" src="https://image.flaticon.com/icons/png/512/3256/3256016.png" />][linkedin]
 [<img align="left" alt="requiemofthesouls | Email" width="22px" src="https://www.flaticon.com/svg/static/icons/svg/732/732200.svg" />][email]
 </br> 
 
@@ -27,12 +28,12 @@
 ---
 
 ### Github Stats
-<img alt="requiemofthesouls GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=requiemofthesouls&show_icons=true&hide_border=false" />  
+<img alt="requiemofthesouls GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=requiemofthesouls&show_icons=true&hide_border=false&include_all_commits=true&count_private=true" />  
 
 ---
  
 ### Language stats  
-<img alt="requiemofthesouls Language Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=requiemofthesouls&langs_count=10&hide=html,jupyter notebook,css&exclude_repo=PP4E,-,stepic,starwars,tango_with_django,learning_golang,el_diary&layout=compact" />
+<img alt="requiemofthesouls Language Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=requiemofthesouls&langs_count=10&hide=html,jupyter notebook,css&exclude_repo=PP4E,-,stepic,starwars,tango_with_django,learning_golang,el_diary,tamagotci-orangepi,neweld_crm,USML_homeworks,usml_test_task,trader_py,pchkaty_web&layout=compact&card_width=445" />
 
 ---
 
@@ -40,3 +41,5 @@
 [instagram]: https://www.instagram.com/requiemofthesouls/
 [telegram]: https://t.me/keep_on_rail
 [email]: mailto:dimamid99+work@gmail.com
+[linkedin]: https://www.linkedin.com/in/requiemofthesouls/
+
