@@ -1,7 +1,7 @@
 ## Hi there, I'm Konstantin 👋 <img src="https://gpvc.arturio.dev/requiemofthesouls" alt="profile views">
 
 ### I'm a Go developer at [FBS](https://fbs.com) company.
-- 🔭 I'm a student at Chelyabinsk State University.
+- 🔭 Chelyabinsk State University student
 - 💻 I’d like to realize my own commercial project
 - 📖 2021 Goals: Contribute more to open source
 - ⚡ Hobby: I'm in love with music and cars
