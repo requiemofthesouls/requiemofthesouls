@@ -6,12 +6,12 @@
 - 📖 2021 Goals: Contribute more to open source
 - ⚡ Hobby: I'm in love with music and cars
 
-### Connect with me:  
-[<img align="left" alt="requiemofthesouls | Telegram" width="22px" src="https://www.flaticon.com/svg/static/icons/svg/1532/1532545.svg" />][telegram]
-[<img align="left" alt="requiemofthesouls | Instagram" width="22px" src="https://www.flaticon.com/svg/static/icons/svg/1409/1409946.svg" />][instagram]
+### Connect with me:  w
+[<img align="left" alt="requiemofthesouls | Telegram" width="22px" src="https://pics.freeicons.io/uploads/icons/png/21399810441555589926-512.png" />][telegram]
+[<img align="left" alt="requiemofthesouls | Instagram" width="22px" src="https://pics.freeicons.io/uploads/icons/png/18265738341599780998-512.png" />][instagram]
 [<img align="left" alt="requiemofthesouls | Habr Career" width="22px" src="https://career.habr.com/images/favicons/favicon-32.png" />][habr_career]
-[<img align="left" alt="requiemofthesouls | LinkedIn" width="22px" src="https://image.flaticon.com/icons/png/512/3256/3256016.png" />][linkedin]
-[<img align="left" alt="requiemofthesouls | Email" width="22px" src="https://www.flaticon.com/svg/static/icons/svg/732/732200.svg" />][email]
+[<img align="left" alt="requiemofthesouls | LinkedIn" width="22px" src="https://pics.freeicons.io/uploads/icons/png/6769799911555590084-512.png" />][linkedin]
+[<img align="left" alt="requiemofthesouls | Email" width="22px" src="https://pics.freeicons.io/uploads/icons/png/21076789501578889049-512.png" />][email]
 </br> 
 
 ---
