@@ -7,7 +7,6 @@
 - ⚡ Hobby: I'm in love with music and cars
 
 ### Connect with me:
-[<img align="left" alt="requiemofthesouls | Telegram" width="22px" src="https://img.icons8.com/color/48/000000/telegram-app--v1.png" />][telegram]
 [<img align="left" alt="requiemofthesouls | Instagram" width="22px" src="https://img.icons8.com/color/48/000000/instagram-new--v1.png" />][instagram]
 [<img align="left" alt="requiemofthesouls | Habr Career" width="22px" src="https://career.habr.com/images/favicons/favicon-32.png" />][habr_career]
 [<img align="left" alt="requiemofthesouls | LinkedIn" width="22px" src="https://pics.freeicons.io/uploads/icons/png/6769799911555590084-512.png" />][linkedin]
