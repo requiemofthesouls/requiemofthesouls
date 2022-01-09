@@ -35,7 +35,7 @@
 <img alt="requiemofthesouls Language Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=requiemofthesouls&langs_count=10&hide=html,jupyter notebook,css&exclude_repo=PP4E,-,stepic,starwars,tango_with_django,learning_golang,el_diary,tamagotci-orangepi,neweld_crm,USML_homeworks,usml_test_task,trader_py,pchkaty_web,erp-chzso_2&layout=compact&card_width=445" />
 
 ---
-<img src="https://gpvc.arturio.dev/requiemofthesouls" alt="profile views">
+<img src="https://komarev.com/ghpvc/?username=requiemofthesouls&color=blueviolet" alt="profile views">
 
 ---
 [habr_career]: https://career.habr.com/requiemofthesouls
