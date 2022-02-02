@@ -1,6 +1,6 @@
 ## Hi there, I'm Konstantin 👋   <img src="https://komarev.com/ghpvc/?username=requiemofthesouls&color=blueviolet" alt="profile views">
 
-### I'm a Go developer at [FBS](https://fbs.com) company.
+### I'm Go developer at [FBS](https://fbs.com) company.
 - 🔭 Chelyabinsk State University student
 - 💻 Currently working on [Pigeomail](https://github.com/requiemofthesouls/pigeomail)
 - 📖 2022 Goals: Reach 99.9% availability for [Pigeomail](https://github.com/requiemofthesouls/pigeomail)
