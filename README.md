@@ -2,8 +2,8 @@
 
 ### I'm Go developer at [FBS](https://fbs.com) company.
 - 🔭 Chelyabinsk State University student
-- 💻 Currently working on [Pigeomail](https://github.com/requiemofthesouls/pigeomail)
-- 📖 2022 Goals: Reach 99.9% availability for [Pigeomail](https://github.com/requiemofthesouls/pigeomail)
+- ~~💻 Currently working on [Pigeomail](https://github.com/requiemofthesouls/pigeomail)~~
+- ~~📖 2022 Goals: Reach 99.9% availability for [Pigeomail](https://github.com/requiemofthesouls/pigeomail)~~
 
 ### Connect with me:
 [<img align="left" alt="requiemofthesouls | Instagram" width="22px" src="https://img.icons8.com/color/48/000000/instagram-new--v1.png" />][instagram]
