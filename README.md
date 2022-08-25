@@ -6,7 +6,7 @@
 - ~~📖 2022 Goals: Reach 99.9% availability for [Pigeomail](https://github.com/requiemofthesouls/pigeomail)~~
 
 ### Connect with me:
-[<img align="left" alt="requiemofthesouls | Instagram" width="22px" src="https://img.icons8.com/color/48/000000/instagram-new--v1.png" />][instagram]
+[comment]:<> ([<img align="left" alt="requiemofthesouls | Instagram" width="22px" src="https://img.icons8.com/color/48/000000/instagram-new--v1.png" />][instagram])
 [<img align="left" alt="requiemofthesouls | Habr Career" width="22px" src="https://career.habr.com/images/favicons/favicon-32.png" />][habr_career]
 [<img align="left" alt="requiemofthesouls | LinkedIn" width="22px" src="https://pics.freeicons.io/uploads/icons/png/6769799911555590084-512.png" />][linkedin]
 [<img align="left" alt="requiemofthesouls | Email" width="22px" src="https://img.icons8.com/color/48/000000/gmail-new.png" />][email]
