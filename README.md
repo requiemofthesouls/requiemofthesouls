@@ -1,9 +1,6 @@
-## Hi there, I'm Konstantin 👋   <img src="https://komarev.com/ghpvc/?username=requiemofthesouls&color=blueviolet" alt="profile views">
+## Hi there, I'm Konstantin 👋  <img src="https://komarev.com/ghpvc/?username=requiemofthesouls&color=blueviolet" alt="profile views">
 
-### I'm Go developer
-- 🔭 Chelyabinsk State University student
-- ~~💻 Currently working on [Pigeomail](https://github.com/requiemofthesouls/pigeomail)~~
-- ~~📖 2022 Goals: Reach 99.9% availability for [Pigeomail](https://github.com/requiemofthesouls/pigeomail)~~
+### Software engineer with rich expirience in highload microservices.
 
 ### Connect with me:
 [comment]:<> ([<img align="left" alt="requiemofthesouls | Instagram" width="22px" src="https://img.icons8.com/color/48/000000/instagram-new--v1.png" />][instagram])
@@ -20,12 +17,11 @@
 ---
  
 ### Language stats  
-<img alt="requiemofthesouls Language Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=requiemofthesouls&langs_count=10&hide=html,jupyter notebook,css&exclude_repo=PP4E,-,stepic,starwars,tango_with_django,learning_golang,el_diary,tamagotci-orangepi,neweld_crm,USML_homeworks,usml_test_task,trader_py,pchkaty_web,erp-chzso_2&layout=compact&card_width=445" />
+<img alt="requiemofthesouls Language Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=requiemofthesouls&langs_count=10&exclude_repo=erp-chzso_2,aioswcm_analysis&layout=compact&card_width=445" />
 
 ---
 
 [habr_career]: https://career.habr.com/requiemofthesouls
-[instagram]: https://www.instagram.com/requiemofthesouls/
 [telegram]: https://t.me/keep_on_rail
 [email]: mailto:dimamid99+work@gmail.com
 [linkedin]: https://www.linkedin.com/in/requiemofthesouls/
