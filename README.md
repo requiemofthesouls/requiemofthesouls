@@ -1,6 +1,6 @@
 ## Hi there, I'm Konstantin 👋  <img src="https://komarev.com/ghpvc/?username=requiemofthesouls&color=blueviolet" alt="profile views">
 
-### Software engineer with rich expirience in highload microservices.
+### Software engineer with rich experience in highload microservices.
 
 ### Connect with me:
 [comment]:<> ([<img align="left" alt="requiemofthesouls | Instagram" width="22px" src="https://img.icons8.com/color/48/000000/instagram-new--v1.png" />][instagram])
